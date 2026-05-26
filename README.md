@@ -1,6 +1,6 @@
 # Andrei Pasca
 
-**Senior IT Engineer &nbsp;·&nbsp; IT Governance &nbsp;·&nbsp; Cloud & Security Leadership**
+**Senior IT Leader &nbsp;·&nbsp; IT Governance &nbsp;·&nbsp; Cloud, Infrastructure & Security**
 
 📍 Eindhoven, Netherlands &nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/andrei-pasca-7474359a)
 
