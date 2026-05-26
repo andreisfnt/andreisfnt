@@ -19,11 +19,11 @@ Senior IT leader with 10+ years building and governing technology organizations 
 
 ### Published here
 
-Governance documents, policy templates, and frameworks refined through real-world practice — shared with the broader IT community. No proprietary content, no environment-specific configuration. A credible starting point so teams aren't building from a blank page.
+Governance documents, policy templates, and frameworks refined through real-world practice - shared with the broader IT community. No proprietary content, no environment-specific configuration. A credible starting point so teams aren't building from a blank page.
 
-- [`it-governance-templates`](https://github.com/andreisfnt/it-governance-templates) — Onboarding checklists, runbook templates, vendor evaluation frameworks, SLA and budget planning templates
-- [`ai-governance-framework`](https://github.com/andreisfnt/ai-governance-framework) — Enterprise AI adoption readiness checklist, governance policy template, risk assessment framework, shadow AI controls
-- [`cybersecurity-awareness`](https://github.com/andreisfnt/cybersecurity-awareness) — Security awareness content and policy templates for IT teams
+- [`it-governance-templates`](https://github.com/andreisfnt/it-governance-templates) - Onboarding checklists, runbook templates, vendor evaluation frameworks, SLA and budget planning templates
+- [`ai-governance-framework`](https://github.com/andreisfnt/ai-governance-framework) - Enterprise AI adoption readiness checklist, governance policy template, risk assessment framework, shadow AI controls
+- [`cybersecurity-awareness`](https://github.com/andreisfnt/cybersecurity-awareness) - Security awareness content and policy templates for IT teams
 
 ---
 
