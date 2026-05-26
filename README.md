@@ -22,8 +22,9 @@ Senior IT leader with 10+ years building and governing technology organizations 
 Governance documents, policy templates, and frameworks refined through real-world practice - shared with the broader IT community. No proprietary content, no environment-specific configuration. A credible starting point so teams aren't building from a blank page.
 
 - [`it-governance-templates`](https://github.com/andreisfnt/it-governance-templates) - Onboarding checklists, runbook templates, vendor evaluation frameworks, SLA and budget planning templates
-- [`ai-governance-framework`](https://github.com/andreisfnt/ai-governance-framework) - Enterprise AI adoption readiness checklist, governance policy template, risk assessment framework, shadow AI controls
+- [`ai-governance-framework`](https://github.com/andreisfnt/ai-governance-framework) - AI governance framework for enterprise environments: readiness, policy, risk assessment, shadow AI, Microsoft 365 and Copilot governance, and practitioner field notes
 - [`cybersecurity-awareness`](https://github.com/andreisfnt/cybersecurity-awareness) - Security awareness content and policy templates for IT teams
+- [`iso27001-readiness`](https://github.com/andreisfnt/iso27001-readiness) - Implementation roadmap, gap analysis, risk assessment, and Statement of Applicability templates for ISO 27001:2022 certification
 
 ---
 
